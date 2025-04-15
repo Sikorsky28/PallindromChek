@@ -5,4 +5,4 @@ i've found a simple method to check is a word pallindrom or not.
 
 https://mvnrepository.com/artifact/org.assertj/assertj-core/3.26.0   
 
-copied a string for Gradle 
+copied a string for Gradle.
